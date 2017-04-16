@@ -1,3 +1,3 @@
 # EggBot
-3d printed budget EggBot
+3d-printable budget EggBot
 
