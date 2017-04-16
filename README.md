@@ -1,4 +1,4 @@
-# EggBot
+# EggBot Pro Mini
 3d-printable budget EggBot
 
 Read this, it's important!
