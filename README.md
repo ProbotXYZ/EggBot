@@ -1,13 +1,13 @@
 # EggBot Pro Mini
-This is a low-cost version of Egg Bot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).
+This is a low-cost version of Egg Bot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</br>
+YouTube: https://youtu.be/MZZwDX_0e_o
 
 Read this, it's important!
 -------------------
 
 If you are reading this, then you may be looking at the development version of EggBot Pro Mini. This means files may present inconsistencies (dimensions mismatch, lack of tolerances, etc). If you just want to build the machine, take a look at the following locations:
+Releases: https://github.com/ProbotXYZ/EggBot/releases
 
-Releases: https://github.com/ProbotXYZ/EggBot/releases</br>
-YouTube: https://youtu.be/MZZwDX_0e_o
 
 The list of parts to print
 -------------------
