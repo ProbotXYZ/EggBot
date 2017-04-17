@@ -1,5 +1,5 @@
-# EggBot Pro Mini
-This is a low-cost version of Egg Bot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</br></br>
+# Egg Painter Mini (eggbot pro MOD)
+This is a low-cost version of EggBot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</br></br>
 YouTube: https://youtu.be/MZZwDX_0e_o
 
 Read this, it's important!
