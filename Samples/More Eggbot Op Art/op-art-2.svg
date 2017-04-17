@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2989"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   width="3200"
+   height="800"
+   sodipodi:docname="quad-splits.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1300"
+     inkscape:window-height="628"
+     id="namedview2993"
+     showgrid="false"
+     inkscape:zoom="0.36519838"
+     inkscape:cx="1600"
+     inkscape:cy="400"
+     inkscape:window-x="52"
+     inkscape:window-y="62"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata2997">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Dan Newman</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:description>Intended for drawing on an Eggbot.  See http://www.egg-bot.com/ for more information.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2995" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="1 - test">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5"
+       d="m 1600,0 10,0"
+       id="path4635-8" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:5"
+       d="m 1600,800 10,0"
+       id="path4637-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="2 - drawing">
+    <g
+       id="g4894"
+       inkscape:tile-cx="200"
+       inkscape:tile-cy="400"
+       inkscape:tile-w="400"
+       inkscape:tile-h="800"
+       inkscape:tile-x0="0"
+       inkscape:tile-y0="0">
+      <g
+         inkscape:tile-y0="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-h="400"
+         inkscape:tile-w="400"
+         inkscape:tile-cy="200"
+         inkscape:tile-cx="200"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g7236">
+        <g
+           id="g4679">
+          <path
+             inkscape:connector-curvature="0"
+             id="path4796"
+             d="M 0,0 400,0 400,400 0,0 50,0 400,50 350,350 50,0 93.75,6.25 393.75,87.5 312.5,306.25 93.75,6.25 131.25,16.40625 383.59375,114.84375 285.15625,268.75 131.25,16.40625 162.79297,28.710938 371.28906,134.08203 265.91797,237.20703 162.79297,28.710938 188.85498,41.882324 358.11768,146.97266 253.02734,211.14502 188.85498,41.882324 210.01282,55.018616 344.98138,154.9942 245.0058,189.98718 210.01282,55.018616 l 16.87107,12.496948 105.60055,91.852756 -91.85276,13.74779 -13.74779,-105.600546 13.20007,11.481595 80.91888,82.089641 -82.08964,-1.17076 1.17076,-80.918881 10.11486,10.261205 60.54282,71.682086 -71.68209,-11.13927 11.13927,-60.542816 7.56785,8.960261 44.01471,61.329415 -61.32943,-17.31471 17.31472,-44.014705" />
+        </g>
+        <g
+           id="g4702">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 0,0 0,400 400,400 0,0 0,50 50,400 350,350 0,50 6.25,93.75 87.5,393.75 306.25,312.5 6.25,93.75 16.40625,131.25 114.84375,383.59375 268.75,285.15625 16.40625,131.25 28.710938,162.79297 134.08203,371.28906 237.20703,265.91797 28.710938,162.79297 41.882324,188.85498 146.97266,358.11768 211.14502,253.02734 41.882324,188.85498 55.018616,210.01282 154.9942,344.98138 189.98718,245.0058 55.018616,210.01282 l 12.496948,16.87107 91.852756,105.60055 13.74779,-91.85276 -105.600546,-13.74779 11.481595,13.20007 82.089641,80.91888 -1.17076,-82.08964 -80.918881,1.17076 10.261205,10.11486 71.682086,60.54282 -11.13927,-71.68209 -60.542816,11.13927 8.960261,7.56785 61.329415,44.01471 -17.31471,-61.32943 -44.014705,17.31472"
+             id="path4672" />
+        </g>
+      </g>
+      <g
+         transform="matrix(1,0,0,-1,0,800)"
+         inkscape:tile-y0="0"
+         inkscape:tile-x0="0"
+         inkscape:tile-h="400"
+         inkscape:tile-w="400"
+         inkscape:tile-cy="200"
+         inkscape:tile-cx="200"
+         style="fill:none;stroke:#000000;stroke-width:1"
+         id="g7236-3">
+        <g
+           id="g4679-8">
+          <path
+             id="path4796-7"
+             d="M 0,0 400,0 400,400 0,0 50,0 400,50 350,350 50,0 93.75,6.25 393.75,87.5 312.5,306.25 93.75,6.25 131.25,16.40625 383.59375,114.84375 285.15625,268.75 131.25,16.40625 162.79297,28.710938 371.28906,134.08203 265.91797,237.20703 162.79297,28.710938 188.85498,41.882324 358.11768,146.97266 253.02734,211.14502 188.85498,41.882324 210.01282,55.018616 344.98138,154.9942 245.0058,189.98718 210.01282,55.018616 l 16.87107,12.496948 105.60055,91.852756 -91.85276,13.74779 -13.74779,-105.600546 13.20007,11.481595 80.91888,82.089641 -82.08964,-1.17076 1.17076,-80.918881 10.11486,10.261205 60.54282,71.682086 -71.68209,-11.13927 11.13927,-60.542816 7.56785,8.960261 44.01471,61.329415 -61.32943,-17.31471 17.31472,-44.014705"
+             inkscape:connector-curvature="0" />
+        </g>
+        <g
+           id="g4702-0">
+          <path
+             d="M 0,0 0,400 400,400 0,0 0,50 50,400 350,350 0,50 6.25,93.75 87.5,393.75 306.25,312.5 6.25,93.75 16.40625,131.25 114.84375,383.59375 268.75,285.15625 16.40625,131.25 28.710938,162.79297 134.08203,371.28906 237.20703,265.91797 28.710938,162.79297 41.882324,188.85498 146.97266,358.11768 211.14502,253.02734 41.882324,188.85498 55.018616,210.01282 154.9942,344.98138 189.98718,245.0058 55.018616,210.01282 l 12.496948,16.87107 91.852756,105.60055 13.74779,-91.85276 -105.600546,-13.74779 11.481595,13.20007 82.089641,80.91888 -1.17076,-82.08964 -80.918881,1.17076 10.261205,10.11486 71.682086,60.54282 -11.13927,-71.68209 -60.542816,11.13927 8.960261,7.56785 61.329415,44.01471 -17.31471,-61.32943 -44.014705,17.31472"
+             id="path4672-3"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="matrix(-1,0,0,1,800,0)"
+       id="use4908" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="translate(800,0)"
+       id="use4910" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="matrix(-1,0,0,1,1600,0)"
+       id="use4912" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="translate(1600,0)"
+       id="use4914" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="matrix(-1,0,0,1,2400,0)"
+       id="use4916" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="translate(2400,0)"
+       id="use4918" />
+    <use
+       height="1052.3622"
+       width="744.09448"
+       x="0"
+       y="0"
+       inkscape:tiled-clone-of="#g4894"
+       xlink:href="#g4894"
+       transform="matrix(-1,0,0,1,3200,0)"
+       id="use4920" />
+  </g>
+</svg>
