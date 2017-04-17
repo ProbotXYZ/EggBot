@@ -13,9 +13,8 @@ YouTube: https://youtu.be/MZZwDX_0e_o
 
 The list of parts to print
 -------------------
-1 x 0000001. Case_Bottom
-
-1 x 0000002. Case_Top
+1 x 0000001.Case_Bottom.stl
+1 x 0000002.Case_Top.stl
 
 1 x 0000003. Logo
 
