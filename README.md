@@ -1,6 +1,4 @@
 # EggBot Pro Mini
-3d-printable budget EggBot
-
 This is a low-cost version of Egg Bot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).
 
 Read this, it's important!
@@ -13,61 +11,59 @@ YouTube: https://youtu.be/MZZwDX_0e_o
 
 The list of parts to print
 -------------------
-1 x 0000001.Case_Bottom.stl
-1 x 0000002.Case_Top.stl
-
-1 x 0000003. Logo
-
-2 x 0000004. M4_Nut_Holder
-1 x 0000005. Axis_R
-1 x 0000006. Spring_Holder
-1 x 0000007. Axis_R_Holder
-1 x 0000008. Axis_R_Lock
-2 x 0000009. М4_Bolt_Holder_Bottom
-2 x 0000010. М4_Bolt_Holder_Top
-1 x 0000011. Axis_L_Holder
-1 x 0000012. Axis_L
-1 x 0000013. Hand_Holder
-1 x 0000014. Hand_Holder_Guide
-1 x 0000015. Hand_Holder_Guide_Case
-1 x 0000016. Hand_H
-1 x 0000017. Hand_V
-1 x 0000018. Case_Right
+1 x 0000001. Case_Bottom</br>
+1 x 0000002. Case_Top</br>
+1 x 0000003. Logo</br>
+2 x 0000004. M4_Nut_Holder</br>
+1 x 0000005. Axis_R</br>
+1 x 0000006. Spring_Holder</br>
+1 x 0000007. Axis_R_Holder</br>
+1 x 0000008. Axis_R_Lock</br>
+2 x 0000009. М4_Bolt_Holder_Bottom</br>
+2 x 0000010. М4_Bolt_Holder_Top</br>
+1 x 0000011. Axis_L_Holder</br>
+1 x 0000012. Axis_L</br>
+1 x 0000013. Hand_Holder</br>
+1 x 0000014. Hand_Holder_Guide</br>
+1 x 0000015. Hand_Holder_Guide_Case</br>
+1 x 0000016. Hand_H</br>
+1 x 0000017. Hand_V</br>
+1 x 0000018. Case_Right</br>
 
 Non-printable parts
 -------------------
-2 x <a href="http://s.click.aliexpress.com/e/72FuNFm">608zz Bearing</a>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">24mm Rubber Gasket</a>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">15mm Rubber Gasket</a>
+2 x <a href="http://s.click.aliexpress.com/e/72FuNFm">608zz Bearing</a></br>
+1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">24mm Rubber Gasket</a></br>
+1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">15mm Rubber Gasket</a></br>
 
 Screws&Nuts
 -------------------
-1 x 15x20mm Spring
-1 x 2x18mm Iron Nail without a hat
-2 x M4x16 Bolt
-2 x M4 Nut
-8 x M3x12 Screw
-5 x M3x16 Screw
-12 x M3 Nut
-4 x M3 Washer
-12 x M2x4 Screw
+1 x 15x20mm Spring</br>
+1 x 2x18mm Iron Nail without a hat</br>
+2 x M4x16 Bolt</br>
+2 x M4 Nut</br>
+8 x M3x12 Screw</br>
+5 x M3x16 Screw</br>
+12 x M3 Nut</br>
+4 x M3 Washer</br>
+12 x M2x4 Screw</br>
 
 Electronics
 -------------------
-1 x <a href="http://s.click.aliexpress.com/e/mMBaiuj">Arduino UNO</a>
-2 x <a href="http://s.click.aliexpress.com/e/baQjima">ULN2003 Stepper Motor Driver Board</a>
-2 x <a href="http://s.click.aliexpress.com/e/bYfuF6U">28byj-48-12v Stepper Motor</a>
-1 x <a href="http://s.click.aliexpress.com/e/aAU3r7e">SG90 Micro Servo</a>
-1 x <a href="http://s.click.aliexpress.com/e/zbiMrfU">12V DC Power Supply</a>
-1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Cable for connect to PC</a>
-<a href="http://s.click.aliexpress.com/e/IY3rBuf">A few wires</a>
+1 x <a href="http://s.click.aliexpress.com/e/mMBaiuj">Arduino UNO</a></br>
+2 x <a href="http://s.click.aliexpress.com/e/baQjima">ULN2003 Stepper Motor Driver Board</a></br>
+2 x <a href="http://s.click.aliexpress.com/e/bYfuF6U">28byj-48-12v Stepper Motor</a></br>
+1 x <a href="http://s.click.aliexpress.com/e/aAU3r7e">SG90 Micro Servo</a></br>
+1 x <a href="http://s.click.aliexpress.com/e/zbiMrfU">12V DC Power Supply</a></br>
+1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Cable for connect to PC</a></br>
+<a href="http://s.click.aliexpress.com/e/IY3rBuf">A few wires</a></br>
 
 Firmware
 -------------------
 As the firmware used Eggduino. It's arduino firmware for EggBot / Spherebot with Inkscape-Integration (<a href="https://github.com/cocktailyogi/EggDuino">Github</a>).
 
 For Installation:
-1) Download and unzip <a href="http://www.thingiverse.com/download:3568252">Firmware.zip</a>.
+1) Download and unzip Firmware.zip.
 2) Download the ARDUINO IDE here: https://www.arduino.cc/en/Main/Software and install it.
 3) Run the software. Select the Arduino UNO board and the proper COM PORT (should be COM5 or so) in the menu "Tools->Board"…
 4) Open Eggduino.ino from Firmware.zip and upload the Eggduino code to your Arudino Uno. 
@@ -75,8 +71,8 @@ For Installation:
 Controlling program
 -------------------
 As the controlling program used Inkscape software.
-1) Download and unzip the Inkscape software <a href="http://www.thingiverse.com/download:3571507">Software_inkscape+extension.zip</a>.
-2) EggBot Control Extension already included in the Inkscape from <a href="http://www.thingiverse.com/download:3571507">Software_inkscape+extension.zip</a>.
+1) Download and unzip the Inkscape software Software_inkscape+extension.zip.
+2) EggBot Control Extension already included in the Inkscape from Software_inkscape+extension.zip.
 3) Run the software. 
 
 The EggBot Control extension for Inkscape is the tool that you will use to help you test and align the EggBot, as well as transfer your drawings to an egg. Once Inkscape is running, you’ll have an Extensions menu, and on that menu will be a submenu labeled Eggbot. 
