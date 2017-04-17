@@ -14,8 +14,11 @@ YouTube: https://youtu.be/MZZwDX_0e_o
 The list of parts to print
 -------------------
 1 x 0000001. Case_Bottom
+
 1 x 0000002. Case_Top
+
 1 x 0000003. Logo
+
 2 x 0000004. M4_Nut_Holder
 1 x 0000005. Axis_R
 1 x 0000006. Spring_Holder
