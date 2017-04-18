@@ -13,9 +13,8 @@ Read this, it's important!
 
 If you are reading this, then you may be looking at the development version of EggBot Pro Mini. This means files may present inconsistencies (dimensions mismatch, lack of tolerances, etc). If you just want to build the machine, take a look at the following locations - <a href="https://github.com/ProbotXYZ/EggBot/releases">Releases</a>
 
-The list of parts to print
+<a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">The list of parts to print</a>
 -------------------
-<a href"https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">Download this</a>
 1 x 0000001. Case_Bottom</br>
 1 x 0000002. Case_Top</br>
 1 x 0000003. Logo</br>
