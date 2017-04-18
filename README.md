@@ -12,6 +12,7 @@ Links
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a></br>
 <a href="http://probot.xyz">Probot.XYZ</a></br>
+<a href="http://egg-bot.com/">Original EggBot</a>
 
 Read this, it's important!
 -------------------
