@@ -1,6 +1,8 @@
 # Яйцебот Про Мини
 3d-печатный бюджетный яйцебот
 
+<a href="https://github.com/ProbotXYZ/EggBot/blob/master/README.md">On English</a>
+
 Прочтите, это важно!
 -------------------
 
