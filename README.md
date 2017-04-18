@@ -4,9 +4,9 @@
 
 This is a low-cost version of EggBot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</br>
 
-<a href="https://youtu.be/MZZwDX_0e_o">YouTube</a>
-<a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a>
-<a href="http://probot.xyz">Probot.XYZ</a>
+<a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
+<a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a></br>
+<a href="http://probot.xyz">Probot.XYZ</a></br>
 
 Read this, it's important!
 -------------------
@@ -15,7 +15,7 @@ If you are reading this, then you may be looking at the development version of E
 
 The list of parts to print
 -------------------
-<a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">Download this</a>
+<a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">Download this</a></br>
 1 x 0000001. Case_Bottom</br>
 1 x 0000002. Case_Top</br>
 1 x 0000003. Logo</br>
