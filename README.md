@@ -5,6 +5,8 @@
 This is a low-cost version of EggBot, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</br>
 
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a>
+<a href="http://www.thingiverse.com/thing:2245428>Thingiverse.com</a>
+<a href="http://probot.xyz>Probot.XYZ</a>
 
 Read this, it's important!
 -------------------
