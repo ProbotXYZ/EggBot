@@ -68,6 +68,15 @@ Cписок деталей и количество, которое нужно н
 1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Кабель для ПК</a></br>
 <a href="http://s.click.aliexpress.com/e/IY3rBuf">Немного проводов</a></br>
 
+Инструкция по сборке
+-------------------
+Загрузите инструкцию по сборке <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction_ru.pdf">отсюда</a>.
+3Д модель сборки <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">тут</a>.
+
+<p align="center">
+<img src="AssemblyInstructions/Assembly.png" width="70%">
+</p>  
+
 Прошивка
 -------------------
 В качестве прошивки используется Eggduino. Это ардуино прошивка для EggBot / Spherebot с интерацией Inkscape (<a href="https://github.com/cocktailyogi/EggDuino">Github</a>).
