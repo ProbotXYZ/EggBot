@@ -62,18 +62,22 @@ Firmware
 As the firmware used Eggduino. It's arduino firmware for EggBot / Spherebot with Inkscape-Integration (<a href="https://github.com/cocktailyogi/EggDuino">Github</a>).
 
 For Installation:
-1) Download and unzip Firmware.zip.
+1) Download and unzip <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a>.
 2) Download the ARDUINO IDE here: https://www.arduino.cc/en/Main/Software and install it.
 3) Run the software. Select the Arduino UNO board and the proper COM PORT (should be COM5 or so) in the menu "Tools->Board"…
-4) Open Eggduino.ino from Firmware.zip and upload the Eggduino code to your Arudino Uno. 
+4) Open Eggduino.ino from <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a> and upload the Eggduino code to your Arudino Uno. 
 
 Controlling program
 -------------------
 As the controlling program used Inkscape software.
-1) Download and unzip the Inkscape software Software_inkscape+extension.zip.
-2) EggBot Control Extension already included in the Inkscape from Software_inkscape+extension.zip.
+1) Download and unzip the Inkscape software <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Software/Software_(inkscape%2Bextension).zip">Software_inkscape+extension.zip</a>.
+2) EggBot Control Extension already included in the Inkscape from <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Software/Software_(inkscape%2Bextension).zip">Software_inkscape+extension.zip</a>.
 3) Run the software. 
 
 The EggBot Control extension for Inkscape is the tool that you will use to help you test and align the EggBot, as well as transfer your drawings to an egg. Once Inkscape is running, you’ll have an Extensions menu, and on that menu will be a submenu labeled Eggbot. 
 
 Use template EggBot (File->New from Template) for your drawing.
+
+Examples
+-------------------
+<a href="https://github.com/ProbotXYZ/EggBot/tree/master/Samples">Sample pictures</a>
