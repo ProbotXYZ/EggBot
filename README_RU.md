@@ -4,8 +4,8 @@
 3d-печатный бюджетный яйцебот.
 
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a>
-<a href="http://www.thingiverse.com/thing:2245428>Thingiverse.com</a>
-<a href="http://probot.xyz>Probot.XYZ</a>
+<a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a>
+<a href="http://probot.xyz">Probot.XYZ</a>
 
 
 Прочтите, это важно!
