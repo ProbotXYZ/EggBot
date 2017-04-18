@@ -68,6 +68,15 @@ Electronics
 1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Cable for connect to PC</a></br>
 <a href="http://s.click.aliexpress.com/e/IY3rBuf">A few wires</a></br>
 
+Assembly Instructions
+-------------------
+Download Assembly Instructions <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction.pdf">this</a>.</br>
+3D model <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">this</a>.
+
+<p align="center">
+<img src="AssemblyInstructions/Assembly.png" width="70%">
+</p>  
+
 Firmware
 -------------------
 As the firmware used Eggduino. It's arduino firmware for EggBot / Spherebot with Inkscape-Integration (<a href="https://github.com/cocktailyogi/EggDuino">Github</a>).
