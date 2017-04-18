@@ -1,8 +1,13 @@
 # Яйцебот Про Мини
+<p align="center">
+<img src="EggPainter.png" width="70%">
+<div align="center"><i>3d-печатный бюджетный яйцебот.</i></div>
+</p>  
+
 <a href="https://github.com/ProbotXYZ/EggBot/blob/master/README.md">On English</a>
 
-3d-печатный бюджетный яйцебот.
-
+Ссылки
+-------------------
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a></br>
 <a href="http://probot.xyz">Probot.XYZ</a></br>
