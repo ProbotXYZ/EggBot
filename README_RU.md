@@ -11,6 +11,7 @@
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a></br>
 <a href="http://probot.xyz">Probot.XYZ</a></br>
+<a href="<a href="http://egg-bot.com/"</a>">Оригинальный EggBot</a>
 
 
 Прочтите, это важно!
