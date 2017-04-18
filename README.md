@@ -5,7 +5,7 @@ This is a low-cost version of EggBot, printable 3D printers that accept large (c
 Read this, it's important!
 -------------------
 
-If you are reading this, then you may be looking at the development version of EggBot Pro Mini. This means files may present inconsistencies (dimensions mismatch, lack of tolerances, etc). If you just want to build the machine, take a look at the following locations: <a href="https://github.com/ProbotXYZ/EggBot/releases">Releases</a>
+If you are reading this, then you may be looking at the development version of EggBot Pro Mini. This means files may present inconsistencies (dimensions mismatch, lack of tolerances, etc). If you just want to build the machine, take a look at the following locations - <a href="https://github.com/ProbotXYZ/EggBot/releases">Releases</a>
 
 
 The list of parts to print
