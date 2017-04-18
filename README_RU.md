@@ -70,7 +70,7 @@ Cписок деталей и количество, которое нужно н
 
 Инструкция по сборке
 -------------------
-Загрузите инструкцию по сборке <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction_ru.pdf">отсюда</a>.
+Загрузите инструкцию по сборке <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction_ru.pdf">отсюда</a>.</br>
 3Д модель сборки <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">тут</a>.
 
 <p align="center">
