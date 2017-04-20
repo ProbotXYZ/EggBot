@@ -51,8 +51,8 @@ Screws&Nuts
 -------------------
 1 x 15x20mm Spring</br>
 1 x 2x18mm Iron Nail without a hat</br>
-2 x M4x16 Bolt</br>
-2 x M4 Nut</br>
+2 x M5x16 Bolt</br>
+2 x M5 Nut</br>
 8 x M3x12 Screw</br>
 5 x M3x16 Screw</br>
 12 x M3 Nut</br>
