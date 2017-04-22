@@ -49,7 +49,7 @@ Non-printable parts
 
 Screws&Nuts
 -------------------
-1 x 15x20mm Spring</br>
+1 x <a href="http://s.click.aliexpress.com/e/qF6YzRZ">Spring Diameter 9-15 Length 17-20</a></br>
 1 x 2x18mm Iron Nail without a hat</br>
 2 x M5x16 Bolt</br>
 2 x M5 Nut</br>
@@ -57,7 +57,7 @@ Screws&Nuts
 5 x M3x16 Screw</br>
 12 x M3 Nut</br>
 4 x M3 Washer</br>
-12 x M2x4 Screw</br>
+12 x <a href="http://s.click.aliexpress.com/e/uNzBU3V">M2x4 Screw</a></br>
 
 Electronics
 -------------------
