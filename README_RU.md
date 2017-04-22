@@ -21,6 +21,9 @@
 
 Cписок деталей и количество, которое нужно напечатать:
 -------------------
+<p align="center">
+<img src="Stl/Items.jpg" width="70%">
+</p>  
 <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/ru">Загрузите отсюда</a></br>
 1 x 0000001. Нижняя крышка корпуса</br> 
 1 x 0000002. Верхняя крышка корпуса</br> 
