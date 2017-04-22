@@ -21,6 +21,9 @@ If you are reading this, then you may be looking at the development version of E
 
 The list of parts to print
 -------------------
+<p align="center">
+<img src="Stl/Items.jpg" width="70%">
+</p>  
 <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">Download this</a></br>
 1 x 0000001. Case_Bottom</br>
 1 x 0000002. Case_Top</br>
