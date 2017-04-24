@@ -54,7 +54,7 @@ Screws&Nuts
 -------------------
 1 x <a href="http://s.click.aliexpress.com/e/qF6YzRZ">Spring Diameter 9-15mm Length 17-20mm</a></br>
 1 x 2x18mm Iron Nail without a hat</br>
-2 x M5x16 Bolt</br>
+2 x M5x20 Bolt</br>
 2 x M5 Nut</br>
 8 x M3x12 Screw</br>
 5 x M3x16 Screw</br>
