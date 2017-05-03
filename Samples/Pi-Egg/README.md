@@ -1,5 +1,9 @@
-Pi-Egg for Eggbot
+# Pi-Egg for Eggbot
 by thor4231
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:269809
 
