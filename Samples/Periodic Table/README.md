@@ -1,5 +1,9 @@
-Eggbot Periodic Table
+# Eggbot Periodic Table
 by aevictory
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:218811
 
