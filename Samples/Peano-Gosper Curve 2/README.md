@@ -1,5 +1,9 @@
-Eggbot Peano-Gosper Curve 2
+# Eggbot Peano-Gosper Curve 2
 by peterinaz
+
+<p align="center">
+<img src="preview.JPG"/>
+</p>
 
 http://www.thingiverse.com/thing:1322635
 
