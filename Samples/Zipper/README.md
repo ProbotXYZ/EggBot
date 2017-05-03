@@ -5,8 +5,6 @@ by schuetzi99
 <img src="preview.jpg"/>
 </p>
 
-<svg src="zipp.svg"/>
-
 http://www.thingiverse.com/thing:1981701
 
 Summary
