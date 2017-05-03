@@ -1,4 +1,4 @@
-Eggbot - Grover
+# Eggbot - Grover
 by R0b0Genius
 
 http://www.thingiverse.com/thing:84078
@@ -17,4 +17,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Grover A© Sesame Workshop
+Grover AÂ© Sesame Workshop
