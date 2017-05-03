@@ -1,4 +1,4 @@
-Eggbot - Wheatley
+# Eggbot - Wheatley
 by R0b0Genius
 
 http://www.thingiverse.com/thing:84653
@@ -18,4 +18,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Wheatley A© Valve Corporation
+Wheatley AÂ© Valve Corporation
