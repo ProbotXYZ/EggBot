@@ -1,5 +1,9 @@
-Geometric Eggbot plot
+# Geometric Eggbot plot
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:5423
 
