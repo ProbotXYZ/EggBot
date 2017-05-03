@@ -1,5 +1,9 @@
-Eggbot - Pokeball
+# Eggbot - Pokeball
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:84656
 
@@ -16,5 +20,5 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Pokeball A© PokA©mon/Nintendo
+Pokeball AÂ© PokAÂ©mon/Nintendo
 
