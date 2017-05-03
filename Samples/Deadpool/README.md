@@ -1,5 +1,9 @@
-Eggbot - Deadpool
+# Eggbot - Deadpool
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:1402525
 
@@ -16,4 +20,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Deadpool © Marvel.
+Deadpool Â© Marvel.
