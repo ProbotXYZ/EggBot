@@ -2,7 +2,7 @@
 by McOlf
 
 <p align="center">
-<img src="preview.jpg"/>
+<img src="preview.JPG"/>
 </p>
 
 http://www.thingiverse.com/thing:760857
