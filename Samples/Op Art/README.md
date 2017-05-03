@@ -1,5 +1,9 @@
-Eggbot Op Art
+# Eggbot Op Art
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:6968
 
