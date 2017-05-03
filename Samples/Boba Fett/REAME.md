@@ -23,5 +23,5 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Boba Fett A© Disney (?)
+Boba Fett A© Disney
 
