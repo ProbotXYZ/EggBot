@@ -1,5 +1,9 @@
-Eggbot - Oscar the Grouch
+# Eggbot - Oscar the Grouch
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:84084
 
@@ -18,4 +22,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Oscar the Grouch A© Sesame Workshop
+Oscar the Grouch AÂ© Sesame Workshop
