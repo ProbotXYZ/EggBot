@@ -1,5 +1,9 @@
-Less demanding geometric Eggbot plot
+# Less demanding geometric Eggbot plot
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:5953
 
