@@ -1,5 +1,9 @@
-Imperial Crest Ornament for EggBot
+# Imperial Crest Ornament for EggBot
 by Lenore
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:1202925
 
