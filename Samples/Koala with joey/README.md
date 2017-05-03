@@ -1,5 +1,9 @@
-Eggbot - Koala with joey
+# Eggbot - Koala with joey
 by McOlf
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:755878
 
