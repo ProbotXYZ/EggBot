@@ -1,5 +1,9 @@
-Eggbot Puzzle
+# Eggbot Puzzle
 by aevictory
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:660635
 
