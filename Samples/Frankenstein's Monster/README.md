@@ -1,5 +1,9 @@
-Eggbot - Frankenstein's Monster
+# Eggbot - Frankenstein's Monster
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:84654
 
