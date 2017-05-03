@@ -1,5 +1,9 @@
-Signers Egg for Eggbot
+# Signers Egg for Eggbot
 by HooDat
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:18359
 
