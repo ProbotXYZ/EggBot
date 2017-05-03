@@ -2,7 +2,7 @@
 by schuetzi99
 
 <p align="center">
-<img src="zipp.svg"/>
+<img src="preview.jpg"/>
 </p>
 
 http://www.thingiverse.com/thing:1981701
