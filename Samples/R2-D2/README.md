@@ -1,5 +1,9 @@
-R2-D2 Eggbot Egg
+# R2-D2 Eggbot Egg
 by bfergus
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:2233788
 
