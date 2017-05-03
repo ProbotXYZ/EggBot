@@ -7,8 +7,6 @@
 
 <a href="https://github.com/ProbotXYZ/EggBot/blob/master/README_RU.md">На Русском</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MZZwDX_0e_o" frameborder="0" allowfullscreen></iframe>
-
 Links
 -------------------
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
