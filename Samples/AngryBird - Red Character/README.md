@@ -1,6 +1,8 @@
 Eggbot - AngryBird - Red Character
 by ShaAli
 
+<img src="preview.jpg"/>
+
 http://www.thingiverse.com/thing:29752
 
 Summary
