@@ -1,5 +1,9 @@
-Eggbot - Stormtrooper
+# Eggbot - Stormtrooper
 by FabLabEP
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:302943
 
