@@ -1,5 +1,9 @@
-zipper template for eggbot
+# zipper template for eggbot
 by schuetzi99
+
+<p align="center">
+<img src="zipp.svg"/>
+</p>
 
 http://www.thingiverse.com/thing:1981701
 
