@@ -1,5 +1,9 @@
-Super Mario Eggbot Egg
+# Super Mario Eggbot Egg
 by nebarnix
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:2095503
 
