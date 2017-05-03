@@ -1,5 +1,9 @@
-Eggbot Sine and Lace Extension
+# Eggbot Sine and Lace Extension
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:24594
 
