@@ -1,5 +1,9 @@
-Eggbot - Elmo
+# Eggbot - Elmo
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:84074
 
@@ -17,4 +21,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Elmo A© Sesame Workshop
+Elmo AÂ© Sesame Workshop
