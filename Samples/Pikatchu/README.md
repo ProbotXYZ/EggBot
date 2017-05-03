@@ -1,5 +1,9 @@
-Eggbot Pikatchu
+# Eggbot Pikatchu
 by McOlf
+
+<p align="center">
+<img src="preview.JPG"/>
+</p>
 
 http://www.thingiverse.com/thing:760829
 
