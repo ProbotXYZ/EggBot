@@ -98,7 +98,9 @@ As the controlling program used Inkscape software.
 2) EggBot Control Extension already included in the Inkscape from <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Software/Software_(inkscape%2Bextension).zip">Software_inkscape+extension.zip</a>.
 3) Run the software. 
 
-The EggBot Control extension for Inkscape is the tool that you will use to help you test and align the EggBot, as well as transfer your drawings to an egg. Once Inkscape is running, you’ll have an Extensions menu, and on that menu will be a submenu labeled Eggbot. 
+The EggBot Control extension for Inkscape is the tool that you will use to help you test and align the EggBot, as well as transfer your drawings to an egg. Once Inkscape is running, you’ll have an Extensions menu, and on that menu will be a submenu labeled Eggbot.
+
+If the Inkscape does not connect to the device, please check name of your Arduino in to device manager. And change it in ebb_serial.py on line 52 instead of "USB-SERIAL CH340".
 
 Use template EggBot (File->New from Template) for your drawing.
 
