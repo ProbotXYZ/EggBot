@@ -1,5 +1,9 @@
-Eggbot - The Brain
+# Eggbot - The Brain
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:85200
 
@@ -16,4 +20,4 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-The Brain A© Warner Bros. Entertainment Inc
+The Brain AÂ© Warner Bros. Entertainment Inc
