@@ -1,5 +1,9 @@
-Eggbot - Boba Fett
+# Eggbot - Boba Fett
 by R0b0Genius
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:84088
 
@@ -19,5 +23,5 @@ Colors are Sharpie Ultra Fine unless otherwise noted.
 www.egg-bot.com
 www.evilmadscientist.com
 
-Boba Fett A© Disney (?)
+Boba Fett AÂ© Disney (?)
 
