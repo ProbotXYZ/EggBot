@@ -1,5 +1,10 @@
-Eggbot Nutrition Label
+# Eggbot Nutrition Label
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p> 
+
 http://www.thingiverse.com/thing:7232
 
 Summary
