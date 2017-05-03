@@ -1,5 +1,9 @@
-Eggbot pattern
+# Eggbot pattern
 by dnewman
+
+<p align="center">
+<img src="preview.jpg"/>
+</p>
 
 http://www.thingiverse.com/thing:5417
 
