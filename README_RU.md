@@ -46,31 +46,31 @@ Cписок деталей и количество, которое нужно н
 
 Не печатаемые части
 -------------------
-2 x <a href="http://s.click.aliexpress.com/e/72FuNFm">608zz Подшипник</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">24mm Резиновая прокладка</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">15mm Резиновая прокладка</a></br>
+2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/">608zz Подшипник</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">24mm Резиновая прокладка</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">15mm Резиновая прокладка</a></br>
 
 Болты и гайки, которые без труда можно найти в любом хозяйственном магазине 
 -------------------
-1 x <a href="http://s.click.aliexpress.com/e/qF6YzRZ">Пружина диаметр 9-15мм длина 17-20мм</a></br> 
+1 x <a href="http://canbemake.ru/recommends/pruzhiny/">Пружина диаметр 9-15мм длина 17-20мм</a></br> 
 1 x 2x18мм Гвоздь без шляпки</br> 
 2 x M5x20 Болт</br> 
 2 x M5 Гайка</br> 
-8 x M3x12 Винт</br> 
+8 x <a href="http://canbemake.ru/recommends/bolt-m3x12/">M3x12 Винт</a></br> 
 5 x M3x16 Винт</br> 
-12 x M3 Гайка</br> 
+12 x <a href="http://canbemake.ru/recommends/gajka-m3/">M3 Гайка</a></br> 
 4 x M3 Шайба</br> 
-12 x <a href="http://s.click.aliexpress.com/e/uNzBU3V">M2x4 Винт</a></br>
+12 x <a href="http://canbemake.ru/recommends/m2x4/">M2x4 Винт</a></br>
 
 Электроника
 -------------------
-1 x <a href="http://s.click.aliexpress.com/e/mMBaiuj">Arduino UNO</a></br>
-2 x <a href="http://s.click.aliexpress.com/e/baQjima">ULN2003 Драйвер шагового двигателя</a></br>
-2 x <a href="http://s.click.aliexpress.com/e/bYfuF6U">28byj-48-12v Шаговый двигатель</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/aAU3r7e">SG90 Микро серво двигатель</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/zbiMrfU">12В Блок питания</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Кабель для ПК</a></br>
-<a href="http://s.click.aliexpress.com/e/IY3rBuf">Немного проводов</a></br>
+1 x <a href="http://canbemake.ru/recommends/arduino-uno/">Arduino UNO</a></br>
+2 x <a href="http://canbemake.ru/recommends/uln2003-drajver-shagovogo-dvigatelya/">ULN2003 Драйвер шагового двигателя</a></br>
+2 x <a href="http://canbemake.ru/recommends/28byj-48-12v-shagovyj-dvigatel/">28byj-48-12v Шаговый двигатель</a></br>
+1 x <a href="http://canbemake.ru/recommends/sg90-mikro-servo-dvigatel/">SG90 Микро серво двигатель</a></br>
+1 x <a href="http://canbemake.ru/recommends/12v-blok-pitaniya/">12В Блок питания</a></br>
+1 x <a href="http://canbemake.ru/recommends/usb-kabel-dlya-pk/">USB Кабель для ПК</a></br>
+<a href="http://canbemake.ru/recommends/nemnogo-provodov/">Немного проводов</a></br>
 
 Инструкция по сборке
 -------------------
