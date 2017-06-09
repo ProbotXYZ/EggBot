@@ -9,10 +9,10 @@
 
 Links
 -------------------
-<a href="https://youtu.be/MZZwDX_0e_o">YouTube</a></br>
-<a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a></br>
-<a href="http://probot.xyz">Probot.XYZ</a></br>
-<a href="http://egg-bot.com/">Original EggBot</a>
+<a href="https://youtu.be/MZZwDX_0e_o" target="_blank">YouTube</a></br>
+<a href="http://www.thingiverse.com/thing:2245428" target="_blank">Thingiverse.com</a></br>
+<a href="http://probot.xyz" target="_blank">Probot.XYZ</a></br>
+<a href="http://egg-bot.com/" target="_blank">Original EggBot</a>
 
 Read this, it's important!
 -------------------
@@ -46,31 +46,31 @@ The list of parts to print
 
 Non-printable parts
 -------------------
-2 x <a href="http://s.click.aliexpress.com/e/72FuNFm">608zz Bearing</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">24mm Rubber Gasket</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/MBeuZb6">15mm Rubber Gasket</a></br>
+2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/" target="_blank">608zz Bearing</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">24mm Rubber Gasket</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">15mm Rubber Gasket</a></br>
 
 Screws&Nuts
 -------------------
-1 x <a href="http://s.click.aliexpress.com/e/qF6YzRZ">Spring Diameter 9-15mm Length 17-20mm</a></br>
+1 x <a href="http://canbemake.ru/recommends/pruzhiny/" target="_blank">Spring Diameter 9-15mm Length 17-20mm</a></br>
 1 x 2x18mm Iron Nail without a hat</br>
 2 x M5x20 Bolt</br>
 2 x M5 Nut</br>
-8 x M3x12 Screw</br>
+8 x <a href="http://canbemake.ru/recommends/bolt-m3x12/"  target="_blank">M3x12 Screw</a></br>
 5 x M3x16 Screw</br>
-12 x M3 Nut</br>
+12 x <a href="http://canbemake.ru/recommends/gajka-m3/"  target="_blank">M3 Nut</a></br>
 4 x M3 Washer</br>
-12 x <a href="http://s.click.aliexpress.com/e/uNzBU3V">M2x4 Screw</a></br>
+12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 Screw</a></br>
 
 Electronics
 -------------------
-1 x <a href="http://s.click.aliexpress.com/e/mMBaiuj">Arduino UNO</a></br>
-2 x <a href="http://s.click.aliexpress.com/e/baQjima">ULN2003 Stepper Motor Driver Board</a></br>
-2 x <a href="http://s.click.aliexpress.com/e/bYfuF6U">28byj-48-12v Stepper Motor</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/aAU3r7e">SG90 Micro Servo</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/zbiMrfU">12V DC Power Supply</a></br>
-1 x <a href="http://s.click.aliexpress.com/e/6YFYRZR">USB Cable for connect to PC</a></br>
-<a href="http://s.click.aliexpress.com/e/IY3rBuf">A few wires</a></br>
+1 x <a href="http://canbemake.ru/recommends/arduino-uno/" target="_blank">Arduino UNO</a></br>
+2 x <a href="http://canbemake.ru/recommends/uln2003-drajver-shagovogo-dvigatelya/" target="_blank">ULN2003 Stepper Motor Driver Board</a></br>
+2 x <a href="http://canbemake.ru/recommends/28byj-48-12v-shagovyj-dvigatel/" target="_blank">28byj-48-12v Stepper Motor</a></br>
+1 x <a href="http://canbemake.ru/recommends/sg90-mikro-servo-dvigatel/" target="_blank">SG90 Micro Servo</a></br>
+1 x <a href="http://canbemake.ru/recommends/12v-blok-pitaniya/" target="_blank">12V DC Power Supply</a></br>
+1 x <a href="http://canbemake.ru/recommends/usb-kabel-dlya-pk/" target="_blank">USB Cable for connect to PC</a></br>
+<a href="http://canbemake.ru/recommends/nemnogo-provodov/" target="_blank">A few wires</a></br>
 
 Assembly Instructions
 -------------------
