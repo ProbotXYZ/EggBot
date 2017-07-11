@@ -87,9 +87,10 @@ As the firmware used Eggduino. It's arduino firmware for EggBot / Spherebot with
 
 For Installation:
 1) Download and unzip <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a>.
-2) Download the ARDUINO IDE here: https://www.arduino.cc/en/Main/Software and install it.
-3) Run the software. Select the Arduino UNO board and the proper COM PORT (should be COM5 or so) in the menu "Tools->Board"…
-4) Open Eggduino.ino from <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a> and upload the Eggduino code to your Arudino Uno. 
+2) For UNO board with CH340G download and install driver: http://www.wch.cn/download/CH341SER_ZIP.html.
+3) Download the ARDUINO IDE here: https://www.arduino.cc/en/Main/Software and install it.
+4) Run the software. Select the Arduino UNO board and the proper COM PORT (should be COM5 or so) in the menu "Tools->Board"…
+5) Open Eggduino.ino from <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a> and upload the Eggduino code to your Arudino Uno. 
 
 Controlling program
 -------------------
