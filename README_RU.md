@@ -87,9 +87,10 @@ Cписок деталей и количество, которое нужно н
 
 Для установки:
 1) Загрузите и распакуйте <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a>.
-2) Загрузите ARDUINO IDE отсюда: https://www.arduino.cc/en/Main/Software и установите его.
-3) Запустите ARDUINO IDE. Выберите плату Arduino UNO и COM порт (может быть COM5 или другой) в меню "Tools->Board"…
-4) Откройте Eggduino.ino из <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a> и загрузите в ваш Arudino Uno. 
+2) Для Arduino UNO с контроллером CH340G (почти все китайские платы) загрузите и установите драйвер: http://www.wch.cn/download/CH341SER_ZIP.html.
+3) Загрузите ARDUINO IDE отсюда: https://www.arduino.cc/en/Main/Software и установите его.
+4) Запустите ARDUINO IDE. Выберите плату Arduino UNO и COM порт (может быть COM5 или другой) в меню "Tools->Board"…
+5) Откройте Eggduino.ino из <a href="https://github.com/ProbotXYZ/EggBot/blob/master/Firmware/Firmware.zip">Firmware.zip</a> и загрузите в ваш Arudino Uno. 
 
 Программа для печати и управления
 -------------------
