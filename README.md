@@ -14,6 +14,10 @@ Links
 <a href="http://probot.xyz" target="_blank">Probot.XYZ</a></br>
 <a href="http://egg-bot.com/" target="_blank">Original EggBot</a>
 
+Complete assembly kit
+-------------------
+You can buy a complete assembly kit - <a href="http://canbemake.ru/recommends/complete-assembly-kit/">this</a>.
+
 Read this, it's important!
 -------------------
 
