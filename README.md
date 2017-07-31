@@ -28,7 +28,6 @@ The list of parts to print
 <p align="center">
 <img src="Stl/Items.jpg" width="70%">
 </p>  
-<a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">Download this</a></br>
 1 x 0000001. Case_Bottom</br>
 1 x 0000002. Case_Top</br>
 1 x 0000003. Logo</br>
@@ -47,24 +46,25 @@ The list of parts to print
 1 x 0000016. Hand_H</br>
 1 x 0000017. Hand_V</br>
 1 x 0000018. Case_Right</br>
+Download all parts <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">this</a></br>
 
 Non-printable parts
 -------------------
 2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/" target="_blank">608zz Bearing</a></br>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">24mm Rubber Gasket</a></br>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">15mm Rubber Gasket</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">24mm Silicone or Rubber Gasket</a></br>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">15mm Silicone or Rubber Gasket</a></br>
 
 Screws&Nuts
 -------------------
 1 x <a href="http://canbemake.ru/recommends/pruzhiny/" target="_blank">Spring Diameter 9-15mm Length 17-20mm</a></br>
-1 x 2x18mm Iron Nail without a hat</br>
-2 x M5x20 Bolt</br>
-2 x M5 Nut</br>
-8 x <a href="http://canbemake.ru/recommends/bolt-m3x12/"  target="_blank">M3x12 Screw</a></br>
-5 x M3x16 Screw</br>
-12 x <a href="http://canbemake.ru/recommends/gajka-m3/"  target="_blank">M3 Nut</a></br>
-4 x M3 Washer</br>
-12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 Screw</a></br>
+1 x 2x18mm Iron Nail without a hat or <a href="http://canbemake.ru/recommends/zaklepka/" target="_blank">Rivet</a></br>
+2 x <a href="http://canbemake.ru/recommends/m5x20/" target="_blank">M5x20 Bolt</a></br>
+2 x <a href="http://canbemake.ru/recommends/m5-nut/" target="_blank">M5 Nut</a></br>
+8 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x12 Screw</a></br>
+5 x <a href-"http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x16 Screw</a></br>
+12 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Nut</a></br>
+4 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Washer</a></br>
+12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 or M2x5 Screw</a></br>
 
 Electronics
 -------------------
