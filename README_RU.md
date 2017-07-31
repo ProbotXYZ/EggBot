@@ -47,7 +47,7 @@ Cписок деталей и количество, которое нужно н
 1 x 0000017. Рука маркера V<br/> 
 1 x 0000018. Правая крышка корпуса<br/> 
 <br/>
-Загрузите все файлы - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/ru">отсюда</a><br/>
+Загрузите и распечатайте все файлы - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/ru">отсюда</a> или купите - <a href="http://canbemake.ru/recommends/plastic-parts-probot/">тут</a>.<br/>
 
 Не печатаемые части
 -------------------
