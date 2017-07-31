@@ -52,8 +52,8 @@ Cписок деталей и количество, которое нужно н
 Не печатаемые части
 -------------------
 2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/">608zz Подшипник</a><br/>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">24mm Резиновая прокладка</a><br/>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">15mm Резиновая прокладка</a><br/>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">24mm Силиконовый держатель</a><br/>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/">15mm Силиконовый держатель</a><br/>
 
 Болты и гайки, которые без труда можно найти в любом хозяйственном магазине 
 -------------------
