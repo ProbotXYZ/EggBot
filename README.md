@@ -47,7 +47,7 @@ The list of parts to print
 1 x 0000017. Hand_V<br/>
 1 x 0000018. Case_Right<br/>
 <br/> 
-Download all parts - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">this</a><br/>
+Download and print all parts - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">this</a><br/> or buy - <a href="http://canbemake.ru/recommends/plastic-parts-ebay/">this</a>.
 
 Non-printable parts
 -------------------
