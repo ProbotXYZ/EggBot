@@ -9,9 +9,9 @@
 
 Links
 -------------------
-<a href="https://youtu.be/MZZwDX_0e_o" target="_blank">YouTube</a></br>
-<a href="http://www.thingiverse.com/thing:2245428" target="_blank">Thingiverse.com</a></br>
-<a href="http://probot.xyz" target="_blank">Probot.XYZ</a></br>
+<a href="https://youtu.be/MZZwDX_0e_o" target="_blank">YouTube</a><br/>
+<a href="http://www.thingiverse.com/thing:2245428" target="_blank">Thingiverse.com</a><br/>
+<a href="http://probot.xyz" target="_blank">Probot.XYZ</a><br/>
 <a href="http://egg-bot.com/" target="_blank">Original EggBot</a>
 
 Assembly kits
@@ -28,58 +28,58 @@ The list of parts to print
 <p align="center">
 <img src="Stl/Items.jpg" width="70%">
 </p>  
-1 x 0000001. Case_Bottom</br>
-1 x 0000002. Case_Top</br>
-1 x 0000003. Logo</br>
-2 x 0000004. M4_Nut_Holder</br>
-1 x 0000005. Axis_R</br>
-1 x 0000006. Spring_Holder</br>
-1 x 0000007. Axis_R_Holder</br>
-1 x 0000008. Axis_R_Lock</br>
-2 x 0000009. М4_Bolt_Holder_Bottom</br>
-2 x 0000010. М4_Bolt_Holder_Top</br>
-1 x 0000011. Axis_L_Holder</br>
-1 x 0000012. Axis_L</br>
-1 x 0000013. Hand_Holder</br>
-1 x 0000014. Hand_Holder_Guide</br>
-1 x 0000015. Hand_Holder_Guide_Case</br>
-1 x 0000016. Hand_H</br>
-1 x 0000017. Hand_V</br>
-1 x 0000018. Case_Right</br>
- 
-Download all parts - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">this</a></br>
+1 x 0000001. Case_Bottom<br/>
+1 x 0000002. Case_Top<br/>
+1 x 0000003. Logo<br/>
+2 x 0000004. M4_Nut_Holder<br/>
+1 x 0000005. Axis_R<br/>
+1 x 0000006. Spring_Holder<br/>
+1 x 0000007. Axis_R_Holder<br/>
+1 x 0000008. Axis_R_Lock<br/>
+2 x 0000009. М4_Bolt_Holder_Bottom<br/>
+2 x 0000010. М4_Bolt_Holder_Top<br/>
+1 x 0000011. Axis_L_Holder<br/>
+1 x 0000012. Axis_L<br/>
+1 x 0000013. Hand_Holder<br/>
+1 x 0000014. Hand_Holder_Guide<br/>
+1 x 0000015. Hand_Holder_Guide_Case<br/>
+1 x 0000016. Hand_H<br/>
+1 x 0000017. Hand_V<br/>
+1 x 0000018. Case_Right<br/>
+<br/> 
+Download all parts - <a href="https://github.com/ProbotXYZ/EggBot/tree/master/Stl/en">this</a><br/>
 
 Non-printable parts
 -------------------
-2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/" target="_blank">608zz Bearing</a></br>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">24mm Silicone or Rubber Gasket</a></br>
-1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">15mm Silicone or Rubber Gasket</a></br>
+2 x <a href="http://canbemake.ru/recommends/608zz-podshipnik/" target="_blank">608zz Bearing</a><br/>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">24mm Silicone or Rubber Gasket</a><br/>
+1 x <a href="http://canbemake.ru/recommends/rubber-gasket/" target="_blank">15mm Silicone or Rubber Gasket</a><br/>
 
 Screws&Nuts
 -------------------
-1 x <a href="http://canbemake.ru/recommends/pruzhiny/" target="_blank">Spring Diameter 9-15mm Length 17-20mm</a></br>
-1 x 2x18mm Iron Nail without a hat or <a href="http://canbemake.ru/recommends/zaklepka/" target="_blank">Rivet</a></br>
-2 x <a href="http://canbemake.ru/recommends/m5x20/" target="_blank">M5x20 Bolt</a></br>
-2 x <a href="http://canbemake.ru/recommends/m5-nut/" target="_blank">M5 Nut</a></br>
-8 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x12 Screw</a></br>
-5 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x16 Screw</a></br>
-12 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Nut</a></br>
-4 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Washer</a></br>
-12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 or M2x5 Screw</a></br>
+1 x <a href="http://canbemake.ru/recommends/pruzhiny/" target="_blank">Spring Diameter 9-15mm Length 17-20mm</a><br/>
+1 x 2x18mm Iron Nail without a hat or <a href="http://canbemake.ru/recommends/zaklepka/" target="_blank">Rivet</a><br/>
+2 x <a href="http://canbemake.ru/recommends/m5x20/" target="_blank">M5x20 Bolt</a><br/>
+2 x <a href="http://canbemake.ru/recommends/m5-nut/" target="_blank">M5 Nut</a><br/>
+8 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x12 Screw</a><br/>
+5 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x16 Screw</a><br/>
+12 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Nut</a><br/>
+4 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Washer</a><br/>
+12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 or M2x5 Screw</a><br/>
 
 Electronics
 -------------------
-1 x <a href="http://canbemake.ru/recommends/arduino-uno/" target="_blank">Arduino UNO</a></br>
-2 x <a href="http://canbemake.ru/recommends/uln2003-drajver-shagovogo-dvigatelya/" target="_blank">ULN2003 Stepper Motor Driver Board</a></br>
-2 x <a href="http://canbemake.ru/recommends/28byj-48-12v-shagovyj-dvigatel/" target="_blank">28byj-48-12v Stepper Motor</a></br>
-1 x <a href="http://canbemake.ru/recommends/sg90-mikro-servo-dvigatel/" target="_blank">SG90 Micro Servo</a></br>
-1 x <a href="http://canbemake.ru/recommends/12v-blok-pitaniya/" target="_blank">12V DC Power Supply</a></br>
-1 x <a href="http://canbemake.ru/recommends/usb-kabel-dlya-pk/" target="_blank">USB Cable for connect to PC</a></br>
-<a href="http://canbemake.ru/recommends/nemnogo-provodov/" target="_blank">A few wires</a></br>
+1 x <a href="http://canbemake.ru/recommends/arduino-uno/" target="_blank">Arduino UNO</a><br/>
+2 x <a href="http://canbemake.ru/recommends/uln2003-drajver-shagovogo-dvigatelya/" target="_blank">ULN2003 Stepper Motor Driver Board</a><br/>
+2 x <a href="http://canbemake.ru/recommends/28byj-48-12v-shagovyj-dvigatel/" target="_blank">28byj-48-12v Stepper Motor</a><br/>
+1 x <a href="http://canbemake.ru/recommends/sg90-mikro-servo-dvigatel/" target="_blank">SG90 Micro Servo</a><br/>
+1 x <a href="http://canbemake.ru/recommends/12v-blok-pitaniya/" target="_blank">12V DC Power Supply</a><br/>
+1 x <a href="http://canbemake.ru/recommends/usb-kabel-dlya-pk/" target="_blank">USB Cable for connect to PC</a><br/>
+<a href="http://canbemake.ru/recommends/nemnogo-provodov/" target="_blank">A few wires</a><br/>
 
 Assembly Instructions
 -------------------
-Download Assembly Instructions <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction.pdf">this</a>.</br>
+Download Assembly Instructions <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction.pdf">this</a>.<br/>
 3D model <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">this</a>.
 
 <p align="center">
