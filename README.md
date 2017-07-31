@@ -62,7 +62,7 @@ Screws&Nuts
 2 x <a href="http://canbemake.ru/recommends/m5x20/" target="_blank">M5x20 Bolt</a></br>
 2 x <a href="http://canbemake.ru/recommends/m5-nut/" target="_blank">M5 Nut</a></br>
 8 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x12 Screw</a></br>
-5 x <a href-"http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x16 Screw</a></br>
+5 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3x16 Screw</a></br>
 12 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Nut</a></br>
 4 x <a href="http://canbemake.ru/recommends/komplekt-boltov-m3/" target="_blank">M3 Washer</a></br>
 12 x <a href="http://canbemake.ru/recommends/m2x4/" target="_blank">M2x4 or M2x5 Screw</a></br>
