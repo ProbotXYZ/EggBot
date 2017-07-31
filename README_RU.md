@@ -8,7 +8,7 @@
 
 Ссылки
 -------------------
-<a href="https://t.me/eggbotpro" target="_blank" >Группа в Телеграмм для обсуждения проекта</a><br/>
+<a href="https://t.me/eggbotpro" target="_blank" >Группа в Телеграмм</a> для обсуждения проекта<br/>
 <a href="https://youtu.be/MZZwDX_0e_o">YouTube</a><br/>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a><br/>
 <a href="http://probot.xyz">Probot.XYZ</a><br/>
