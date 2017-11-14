@@ -9,7 +9,7 @@
 Ссылки
 -------------------
 <a href="https://t.me/eggbotpro" target="_blank" >Группа в Телеграмм</a> для обсуждения проекта<br/>
-<a href="https://youtu.be/MZZwDX_0e_o">YouTube видео первого запуска</a><br/>
+<a href="https://youtu.be/MZZwDX_0e_o">Видео первого запуска</a><br/>
 <a href="https://www.youtube.com/watch?v=U3JV1u7KEp0"  target="_blank">Видео инструкции по сборке</a><br/>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a><br/>
 <a href="http://probot.xyz">Probot.XYZ</a><br/>
