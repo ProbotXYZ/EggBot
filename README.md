@@ -9,7 +9,8 @@
 
 Links
 -------------------
-<a href="https://youtu.be/MZZwDX_0e_o" target="_blank">YouTube</a><br/>
+<a href="https://www.youtube.com/watch?v=U3JV1u7KEp0"  target="_blank">Video Assembly Instruction</a>
+<a href="https://youtu.be/MZZwDX_0e_o"  target="_blank">Video First Launch</a>
 <a href="http://www.thingiverse.com/thing:2245428" target="_blank">Thingiverse.com</a><br/>
 <a href="http://probot.xyz" target="_blank">Probot.XYZ</a><br/>
 <a href="http://egg-bot.com/" target="_blank">Original EggBot</a>
@@ -79,7 +80,8 @@ Electronics
 
 Assembly Instructions
 -------------------
-Download Assembly Instructions <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction.pdf">this</a>.<br/>
+<a href="https://www.youtube.com/watch?v=U3JV1u7KEp0"  target="_blank">Video Assembly Instructions</a>
+Download Assembly Instructions PDF<a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction.pdf">this</a>.<br/>
 3D model <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">this</a>.
 
 <p align="center">
