@@ -9,7 +9,8 @@
 Ссылки
 -------------------
 <a href="https://t.me/eggbotpro" target="_blank" >Группа в Телеграмм</a> для обсуждения проекта<br/>
-<a href="https://youtu.be/MZZwDX_0e_o">YouTube</a><br/>
+<a href="https://youtu.be/MZZwDX_0e_o">YouTube видео первого запуска</a><br/>
+<a href="https://www.youtube.com/watch?v=U3JV1u7KEp0"  target="_blank">Видео инструкции по сборке</a><br/>
 <a href="http://www.thingiverse.com/thing:2245428">Thingiverse.com</a><br/>
 <a href="http://probot.xyz">Probot.XYZ</a><br/>
 <a href="http://egg-bot.com/">Оригинальный EggBot</a>
@@ -80,6 +81,7 @@ Cписок деталей и количество, которое нужно н
 
 Инструкция по сборке
 -------------------
+Посмотрите видео инструкцию по сборке - <a href="https://www.youtube.com/watch?v=U3JV1u7KEp0"  target="_blank">тут</a><br/>
 Загрузите инструкцию по сборке <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Assembly_Instruction_ru.pdf">отсюда</a>.<br/>
 3Д модель сборки <a href="https://github.com/ProbotXYZ/EggBot/blob/master/AssemblyInstructions/Instruction%203D.stl">тут</a>.
 
