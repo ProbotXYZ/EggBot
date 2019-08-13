@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="EggPainter.png" width="70%">
-<div align="center"><i>This is a low-cost version of <a href="http://egg-bot.com/">EggBot</a>, printable 3D printers that accept large (cost of electronic parts only $8 from China without power supply).</i></div>
+<div align="center"><i>This is a low-cost version of <a href="http://egg-bot.com/">EggBot</a>, printable 3D printers that accept large.</i></div>
 </p>  
 
 <a href="https://github.com/ProbotXYZ/EggBot/blob/master/README_RU.md">На Русском</a>
