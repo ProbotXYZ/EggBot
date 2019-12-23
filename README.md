@@ -108,7 +108,26 @@ As the controlling program used Inkscape software.
 
 The EggBot Control extension for Inkscape is the tool that you will use to help you test and align the EggBot, as well as transfer your drawings to an egg. Once Inkscape is running, you’ll have an Extensions menu, and on that menu will be a submenu labeled Eggbot.
 
-If the Inkscape does not connect to the device, please check name of your Arduino in to device manager. And change it in ebb_serial.py on line 52 instead of "USB-SERIAL CH340".
+If the Inkscape does not connect to the device, please check name of your Arduino in to device manager. And change it in ebb_serial.py on line 52 instead of "USB-SERIAL CH340":
+
+- open file "ebb_serial.py" in text editor and search for the following block:
+
+    EBBport = None
+    for port in comPortsList:
+        if port[1].startswith("EiBotBoard"):
+            EBBport = port[0]   #Success; EBB found by name match.
+            break   #stop searching-- we are done.
+    if EBBport is None:
+        for port in comPortsList:
+            if port[2].startswith("USB VID:PID=04D8:FD92"):
+                EBBport = port[0] #Success; EBB found by VID/PID match.
+                break   #stop searching-- we are done.      
+
+- replace "04D8:FD92" with the VID/PID of your Arduino device.  
+
+- alternatively, you can replace "EBBport = None" with your specific port number:
+    EBBport = "COMxx"               #Windows
+    EBBport = "/dev/tty[something]" #Linux/Mac  
 
 Use template EggBot (File->New from Template) for your drawing.
 
